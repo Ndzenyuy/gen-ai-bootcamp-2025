@@ -16,10 +16,6 @@ Below are examples of **user input and assistant output**. Pay close attention t
 
 ### **Bad Example (Score: 4)**
 
-#### **User Input:**
-
-> Bears are at the door, did you leave the garbage out?
-
 #### **Score: 4/10**
 
 #### **Reasons for Low Score:**
@@ -52,5 +48,5 @@ For the second clause, we can use the verb (nokosu), which is a more polite way 
 **[Clause 2: Did you leave the garbage out?]**
 [Verb] masu ka
 
-Your turn! Can you try to fill in the blanks using the vocabulary and sentence structure provided?
+
 ```
